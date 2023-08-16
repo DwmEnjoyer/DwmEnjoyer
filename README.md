@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**GitHub Stats ⚡**
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DwmEnjoyer&theme=tokyonight)
