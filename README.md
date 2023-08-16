@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Github Stats
+## Github Stats ⚡
 
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DwmEnjoyer&theme=tokyonight)
 
